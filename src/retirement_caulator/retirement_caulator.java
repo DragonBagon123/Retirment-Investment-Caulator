@@ -4,7 +4,7 @@ public class retirement_caulator {
 	public static void main(String[] args) {
 		
 		Scanner sc= new Scanner(System.in);
-		System.out.println("Welcome to Retirement Investment Caulator: Answering the questions below to get a year by year table with a final summary");
+		System.out.println("Welcome to Retirement Investment Caulator: Answer the following questions below to get a year by year table with a final summary");
 		
 		do {
 
